@@ -1,2 +1,2 @@
-# https://github.com/gowebautentic/gowebautentic.github.io
+# gowebautentic.github.io
 Ejemplo de autenticación con Firebase y Google.
