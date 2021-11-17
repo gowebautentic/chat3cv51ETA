@@ -2,7 +2,11 @@
  * configuración en tu servidor de Firebase.  */
 // @ts-ignore
 firebase.initializeApp({
+<<<<<<< HEAD
   apiKey: "AIzaSyCrtzot0ah7OFa5gIC-viTdBNZNPNkpjPQ",
+=======
+   apiKey: "AIzaSyCrtzot0ah7OFa5gIC-viTdBNZNPNkpjPQ",
+>>>>>>> a2e5841d8543fdf6c2770a2b0b84bb10c03de4d0
   authDomain: "gowebautenticch.firebaseapp.com",
   projectId: "gowebautenticch",
   storageBucket: "gowebautenticch.appspot.com",
